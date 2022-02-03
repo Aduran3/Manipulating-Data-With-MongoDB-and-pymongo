@@ -5,3 +5,5 @@ Python template implementing "CRUD" to manipulate a mongoDB:
 CREATE, READ, UPDATE and DELETE
 
 The program serves as a template for future uses of MongoDB
+
+A word file is attached showing the manipulation results to the MongoDB
